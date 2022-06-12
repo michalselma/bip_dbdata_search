@@ -6,9 +6,9 @@ Functionality:
 
 Usage:
 - Build directory structure as follows:
-    C:\BIP_REPORTS
-    C:\BIP_REPORTS\xdm
-    C:\BIP_REPORTS\xlsx
+    * C:\BIP_REPORTS
+    * C:\BIP_REPORTS\xdm
+    * C:\BIP_REPORTS\xlsx
 - Put your xdm defintion files into xdm subfolder
 - Run
 
